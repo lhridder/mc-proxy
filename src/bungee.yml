@@ -1,0 +1,4 @@
+name: LucasProxy
+main: nl.lucasridder.proxy.Proxy
+version: 1.0
+author: lucasridder
